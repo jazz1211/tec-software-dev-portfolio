@@ -22,4 +22,5 @@ Se aprendió a usar Git y GitHub para controlar versiones, organizar archivos y 
 Evidencias:
 
 •	TERMINAL:
+
 <img width="510" height="169" alt="image" src="https://github.com/user-attachments/assets/6f7906fb-4f82-43ad-ab8f-c0ac9404a79c" />
