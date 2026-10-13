@@ -11,8 +11,12 @@ tec-software-dev-portfolio/
 │       └── bingo/
 │
 ├── modulo_2/
-│   ├── laboratorios/
-│   └── proyecto/
+│   ├── principios_de_programacion_II/
+│       ├── laboratorios/
+│       └── proyecto/
+│   └── programacion_orientada_a_objetos/
+│       ├── laboratorios/
+│       └── proyecto/
 │
 ├── modulo_3/
 │   ├── laboratorios/
